@@ -1,5 +1,5 @@
 # Mars Rover
-### Required materials:
+The circuit diagram and Arduino program can be used to make a "self-driving car". To assemble the car, you will need:
 1. The perseids smart car chassis
 2. Arduino + cable
 3. 1/4 size breadboard
